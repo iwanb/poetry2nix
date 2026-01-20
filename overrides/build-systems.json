@@ -24996,9 +24996,6 @@
   "typed-argument-parser": [
     "setuptools"
   ],
-  "typed-ast": [
-    "setuptools"
-  ],
   "typed-settings": [
     "hatchling",
     "setuptools"
@@ -26276,9 +26273,6 @@
     "setuptools"
   ],
   "types-tqdm": [
-    "setuptools"
-  ],
-  "types-typed-ast": [
     "setuptools"
   ],
   "types-ujson": [
